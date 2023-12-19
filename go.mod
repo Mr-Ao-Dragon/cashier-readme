@@ -29,7 +29,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/stripe/krl v0.0.0-20220202203423-9dc12b164150
 	go4.org v0.0.0-20201209231011-d4a079459e60
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/oauth2 v0.5.0
 	google.golang.org/api v0.110.0
 )
@@ -82,9 +82,9 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
